@@ -12,7 +12,7 @@ In today’s fast-paced digital world, having reliable software solutions and tr
 
 However, users often need guidance on how to navigate customer support, manage their account login, sign-in procedures, or activate new features. This article dives deep into all these aspects, while also highlighting how tools like IDrive enhance your overall experience by safeguarding your data and providing seamless backup services.
 
-.. image:: GET-STARTED.png
+.. image:: get-start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
