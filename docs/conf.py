@@ -14,4 +14,4 @@ html_js_files = [
 ]
 
 
-html_favicon = '_static/download.png'
+html_favicon = '_static/zoho-fav.png'
