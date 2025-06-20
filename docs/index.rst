@@ -1,6 +1,5 @@
 How to Use Zoho for Seamless Business and Productivity Tools?
-
--------
+================================================
 
 .. toctree::
    :maxdepth: 2
